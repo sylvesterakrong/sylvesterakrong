@@ -3,11 +3,11 @@ import React from 'react'
 
 const gallery = () => {
   return (
-    <section>
-        <div className='text-left text-teal-600 text-lg font-medium'>
+    <section className='shadow-lg p-10 rounded-xl my-10'>
+        <div className='text-left text-teal-600 text-2xl font-medium'>
           <h3> Sneek peak</h3>
         </div>
-      <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap 
+      <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap  
       '>
 
         
