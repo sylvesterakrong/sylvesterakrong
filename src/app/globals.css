@@ -17,7 +17,7 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: rgb(var(--background-start-rgb));
-  padding: 1rem;
+  background-color: #F4F4F4;
 }
+
+
