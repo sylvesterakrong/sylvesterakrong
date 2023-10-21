@@ -3,7 +3,7 @@ import React from 'react'
 
 const gallery = () => {
   return (
-    <section className='shadow-lg p-10 rounded-xl my-10'>
+    <section className='shadow-lg p-4 rounded-xl my-10'>
         <div className='text-left text-teal-600 text-2xl font-medium'>
           <h3> Sneek peak</h3>
         </div>

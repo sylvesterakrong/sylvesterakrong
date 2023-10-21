@@ -4,7 +4,7 @@ import React from 'react'
 
 const techstack = () => {
   return (
-    <section className='object-cover mb-10 shadow-lg p-10 rounded-xl my-10'>
+    <section className='object-cover mb-10'>
       <div className='text-leftfont-semibold'>
         <h3 className='lg:p-9 text-teal-600 text-xl font-medium'> I use the following Tech stack when developing software</h3>
       </div>
