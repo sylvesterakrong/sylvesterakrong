@@ -1,10 +1,10 @@
 
 ## 🌱I am Sylvester Akrong, a software engineer.
-  🌱I currently build software with 
-  🏆Next JS for web and for 
-  🚀mobile, I use flutter
+  🌱I currently build with 
+  🏆Dart/Flutter &
+  🚀Next js
 
-  🤖I am also a robotics enthusiast.
+  🤖I am also an Aerial Robotics enthusiast.
   
 
 ##💫 Learn More About Me
