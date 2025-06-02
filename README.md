@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Aerial robotics enthusiast and would love to work on UAVs and UAS's as a software engineer.<br>🔭 I use Flutter and Next Js for development<br>🤝 I’m looking to collaborate on open source aerial robotics projects<br>⚡ Fun fact I started Robotics in high school and <br>      I have won a couple of awards which include high performance robot award at the <br>       ROBOFEST 2021 world championships.
+I am an Aerial robotics enthusiast and would love to work on UAVs and UAS's as a software engineer.🤝 I’m looking to collaborate on open source aerial robotics projects<br>⚡ Fun fact I started Robotics in high school and <br>      I have won a couple of awards which include high performance robot award at the <br>       ROBOFEST 2021 world championships.
 
 
 ## 🌐 Socials:
